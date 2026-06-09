@@ -1,16 +1,29 @@
-## Hi there 👋
+## Welcome
+Hi, I'm Avery
 
-<!--
-**AveryEdmonds/AveryEdmonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Information Technology graduate interested in:
 
-Here are some ideas to get you started:
+- Java & Spring Boot
+- SQL Database Design
+- REST APIs
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Java
+- Spring Boot
+- MySQL
+- HTML/CSS/JavaScript
+- Git & GitHub
+- REST APIs
+
+## Featured Projects
+
+### Doctor Tracker
+A Spring Boot application that tracks your personal doctors information
+
+Tech Used:
+- Spring Boot
+- MySQL
+- HTML
+
+[Repository](link)
