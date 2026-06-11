@@ -27,3 +27,16 @@ Tech Used:
 - HTML
 
 [Repository](https://github.com/AveryEdmonds/Doctor-Tracker)
+
+### MLB Stat Tracker
+A Spring Boot application that tracks MLB Players specific season stats
+
+Tech Used:
+- Java
+- Spring Boot
+- MySQL
+- Thhymeleaf
+- MLB API
+- Responsive Design
+
+[Repository](https://github.com/AveryEdmonds/MLB-Stat-Tracker)
