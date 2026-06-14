@@ -2,8 +2,9 @@
 
 ## Avery Edmonds
 
-Lehigh Valley, Pennsylvania
-(484-223-5265) • (buddyedmonds03@outlook.com) • [LinkedIn Profile](https://www.linkedin.com/in/avery-edmonds-9b2228352/)
+Lehigh Valley, Pennsylvania  
+(484-223-5265) • (buddyedmonds03@outlook.com)     
+[LinkedIn Profile](https://www.linkedin.com/in/avery-edmonds-9b2228352/)
 
 ---
 
@@ -35,8 +36,8 @@ A natural communicator with experience balancing academics, athletics, and leade
 
 ## EDUCATION
 
-**Bachelor of Science in Information Technology**
-Penn State University
+**Bachelor of Science in Information Technology**  
+Penn State University  
 Graduated: 2026
 
 ---
